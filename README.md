@@ -1,6 +1,4 @@
 yjs
 ===
 
-sport platform
-
-体育健身平台
+配合apiQL的前端代码示例
